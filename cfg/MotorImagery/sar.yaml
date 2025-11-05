@@ -1,0 +1,5 @@
+lr: 0.001
+steps: 1
+episodic: False
+e_margin: 0.28
+reset_constant: 0

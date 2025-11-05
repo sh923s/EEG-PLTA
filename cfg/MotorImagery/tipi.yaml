@@ -1,0 +1,5 @@
+lr: 0.001
+epsilon: 0.01
+tent_coeff: 1
+reverse_kl: True
+random_init_adv: False

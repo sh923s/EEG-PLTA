@@ -1,0 +1,6 @@
+lr: 0.001
+distance: cosine
+cls_par: 1
+ent_par: 1
+threshold: 0
+epsilon: 1.0e-05

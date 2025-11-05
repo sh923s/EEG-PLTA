@@ -1,0 +1,8 @@
+paradigm: MI
+subject_num: 14
+ch_num: 15
+class_num: 2
+time_sample_num: 2561
+sample_rate: 512
+trial_num: 100
+feature_deep_dim: 640

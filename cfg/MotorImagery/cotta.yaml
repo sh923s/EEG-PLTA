@@ -1,0 +1,5 @@
+lr: 0.001
+steps: 1
+episodic: False
+mt: 0.999
+rst: 0.01

@@ -1,0 +1,7 @@
+lr: 0.001
+epsilon: 0.01
+lambda_pi: 1
+reverse_kl: True
+conf_threshold: 0.7
+temperature_scaling: 2
+memory_size: 20

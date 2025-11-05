@@ -1,0 +1,4 @@
+affinity: kNN
+knn: 1
+sigma: 1.0
+force_symmetry: false
